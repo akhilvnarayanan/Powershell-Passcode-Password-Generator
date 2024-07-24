@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="2600" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,6 +128,21 @@
         </mxCell>
         <mxCell id="v_S3tiiwO-4UI7npNq6G-69" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="450.00000000000006" y="310.00000000000006" width="146" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="v_S3tiiwO-4UI7npNq6G-72" value="Vnet Peering" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="455.04" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v_S3tiiwO-4UI7npNq6G-73" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disk_Encryption_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="1206.81" y="1240" width="41.61" height="41.61" as="geometry" />
+        </mxCell>
+        <mxCell id="v_S3tiiwO-4UI7npNq6G-74" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Disk_Encryption_Sets.svg;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="1250" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="v_S3tiiwO-4UI7npNq6G-75" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+          <mxGeometry x="1206.81" y="1290" width="41.61" height="41.61" as="geometry" />
+        </mxCell>
+        <mxCell id="v_S3tiiwO-4UI7npNq6G-76" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Backup_Center.svg;" vertex="1" parent="1">
+          <mxGeometry x="1208.97" y="1340" width="43.87" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
