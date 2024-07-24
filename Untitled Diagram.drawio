@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.4">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="929" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,15 @@
         </mxCell>
         <mxCell id="v_S3tiiwO-4UI7npNq6G-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="827" y="100" width="773" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="v_S3tiiwO-4UI7npNq6G-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v_S3tiiwO-4UI7npNq6G-22" target="v_S3tiiwO-4UI7npNq6G-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974.2466354211565" y="966.675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="778" />
+              <mxPoint x="1150" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v_S3tiiwO-4UI7npNq6G-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="327.95" y="541.06" width="377.51" height="473.72" as="geometry" />
@@ -115,7 +124,7 @@
           <mxGeometry x="610" y="177.75" width="95.5" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="v_S3tiiwO-4UI7npNq6G-65" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
-          <mxGeometry x="439.70000000000005" y="635.94" width="146" height="146" as="geometry" />
+          <mxGeometry x="427.00000000000006" y="662" width="146" height="146" as="geometry" />
         </mxCell>
         <mxCell id="v_S3tiiwO-4UI7npNq6G-69" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="450.00000000000006" y="310.00000000000006" width="146" height="146" as="geometry" />
